@@ -105,5 +105,5 @@ For any issues or inquiries, feel free to reach out via GitHub Issues.
 
 ---
 
-**Developed by Harshad Kshirsagar**
+**Developed by Harshad Kshirsagar.**
 
