@@ -1,4 +1,4 @@
-# Face Recognition System
+# Face Recognition Attendance System
 
 A Django-based Face Recognition System that allows user registration via webcam capture and recognizes previously registered users. This project utilizes OpenCV and the `face_recognition` library for face encoding and detection.
 
